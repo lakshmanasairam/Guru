@@ -12,5 +12,9 @@ namespace Guru.Controllers
         {
             return View();
         }
+        public IActionResult Edit()
+        {
+            return View();
+        }
     }
 }
